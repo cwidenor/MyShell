@@ -1,0 +1,25 @@
+================
+Working Features
+================
+Wildcarding
+Subshells
+Readline editing
+Tilde expansion
+Environment variable expansion
+Special expansions ($, !)
+Builtin functions (except source)
+Escaping
+Quotes
+Zombie Elimination
+Exit
+Pipes
+File redirection
+====================
+Not Working features
+====================
+Any extra credit
+ctrl-R
+History (breaks after a few key presses)
+Special expansions (?, _, SHELL)
+Source
+ctrl-C
